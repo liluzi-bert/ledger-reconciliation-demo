@@ -1,0 +1,5 @@
+id,date,vendor,account,amount
+J-001,2025-01-11,Example Supplier,Materials,125.50
+J-002,2025-01-12,Sample Carrier,Shipping,75.00
+J-003,2025-01-13,Sample Carrier,Shipping,105.00
+J-004,2025-01-15,Example Supplier,Office Supplies,125.50

@@ -1,0 +1,5 @@
+id,date,vendor,account,amount
+L-001,2025-01-10,Example Supplier,Materials,125.50
+L-002,2025-01-12,Sample Carrier,Shipping,180.00
+L-003,2025-01-13,Demo Services,Software,45.00
+L-004,2025-01-15,Example Supplier,Materials,125.50

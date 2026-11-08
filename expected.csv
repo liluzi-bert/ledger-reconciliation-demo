@@ -1,0 +1,5 @@
+ledger_id,status,journal_ids,reason
+L-001,matched,J-001,"Direct match on vendor, account, and amount"
+L-002,review,J-002 J-003,Consecutive journal entries sum to ledger amount
+L-003,unmatched,,No eligible direct match or consecutive split
+L-004,review,J-004,Direct amount match with a different account
